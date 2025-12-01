@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on 飘然烟雨中</title>
+        <link>https://example.com/page/</link>
+        <description>Recent content in Pages on 飘然烟雨中</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>飘然烟雨中</copyright>
+        <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于我</title>
+        <link>https://example.com/about/</link>
+        <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/about/</guid>
+        <description>&lt;img src="https://example.com/about/me.jpg" alt="Featured image of post 关于我" /&gt;&lt;h2 id=&#34;你好&#34;&gt;你好！
+&lt;/h2&gt;&lt;p&gt;我是这个博客的作者。&lt;/p&gt;
+&lt;p&gt;这里是我的自我介绍，你可以在这里写：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;你的职业&lt;/li&gt;
+&lt;li&gt;你的兴趣爱好&lt;/li&gt;
+&lt;li&gt;你的联系方式&lt;/li&gt;
+&lt;li&gt;这个博客会更新什么内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;欢迎关注我！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>归档</title>
+        <link>https://example.com/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>链接</title>
+        <link>https://example.com/%E9%93%BE%E6%8E%A5/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%E9%93%BE%E6%8E%A5/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://example.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
