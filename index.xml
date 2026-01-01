@@ -13,7 +13,7 @@
         <pubDate>Thu, 01 Jan 2026 18:56:45 +0800</pubDate>
         
         <guid>https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/</guid>
-        <description>&lt;p&gt;​	从照葫芦画瓢搭建起一个毛胚房网站到现在，终于想起来写第一篇月报了（虽然今天是元旦节，按理来说应该写年报才对🙊）&lt;/p&gt;
+        <description>&lt;img src="https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/%E9%9B%AA%E4%B8%AD%E5%88%9B%E6%96%B0%E6%B8%AF.jpg" alt="Featured image of post 2025年12月总结" /&gt;&lt;p&gt;​	从照葫芦画瓢搭建起一个毛胚房网站到现在，终于想起来写第一篇月报了（虽然今天是元旦节，按理来说应该写年报才对🙊）&lt;/p&gt;
 &lt;h1 id=&#34;做了些什么&#34;&gt;做了些什么
 &lt;/h1&gt;&lt;p&gt;​	12月整体上还是取得了不少阶段性进展的，优点小成就感hhh&lt;/p&gt;
 &lt;p&gt;​	首先是月初终于看完了 Java Web 的课，总算是对 SpringBoot 入门了。其实按计划 11 月就该看完来着，不过 11 月拖延了一两周。唉，期中那几周接二连三的课内 pre 真的搞人心态，弄完那些毫无意义的作业后完全没心情学自己的东西了👿 工程伦理这种纯折磨的课再也不想上了，只能说早上完早结束吧，先苦后甜了hhh&lt;/p&gt;
@@ -26,7 +26,7 @@
 	srcset=&#34;https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_1_hu_25667c66f9c76a87.png 480w, https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_1_hu_a3dcc5a580f147a8.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1&#34;
+		alt=&#34;管理端首页&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
@@ -40,7 +40,7 @@
 	srcset=&#34;https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_2_hu_dcb0ad979531c2c7.png 480w, https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_2_hu_966417bc5aae2f3d.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;2&#34;
+		alt=&#34;管理端数据统计&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
@@ -54,7 +54,7 @@
 	srcset=&#34;https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_3_hu_8499c7dc97cb0654.png 480w, https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_3_hu_7e2eeda9d0481f3b.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;3&#34;
+		alt=&#34;管理端订单管理界面&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
@@ -68,7 +68,7 @@
 	srcset=&#34;https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_4_hu_e6b2b33f61b62317.png 480w, https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_4_hu_3281dea9b1d221d7.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;4&#34;
+		alt=&#34;小程序端点单页面&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
@@ -82,7 +82,7 @@
 	srcset=&#34;https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_5_hu_9a789272f7a69a7f.png 480w, https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_5_hu_bab4b56df8b4e30a.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;5&#34;
+		alt=&#34;小程序端个人页面&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
@@ -99,7 +99,7 @@
 	srcset=&#34;https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/leetcode_hu_f4bd50fd6d1c44f6.png 480w, https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/leetcode_hu_f428d353047ff37b.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;6&#34;
+		alt=&#34;12月力扣热力图，从12-5才正式开始刷hhh&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
@@ -123,14 +123,6 @@
 &lt;p&gt;​	不过期末周还有几门考试要复习，事也多起来了，组会也得准备，估计下个月的进度又要变慢了。研究生想干点自己的事真困难啊&lt;/p&gt;
 &lt;p&gt;​	不管怎么说，祝自己元旦快乐，希望2026顺顺利利，耶✌&lt;/p&gt;
 </description>
-        </item>
-        <item>
-        <title>自动配置Test2</title>
-        <link>https://box-z28.github.io/blog_show/p/%E8%87%AA%E5%8A%A8%E9%85%8D%E7%BD%AEtest2/</link>
-        <pubDate>Mon, 01 Dec 2025 11:17:43 +0800</pubDate>
-        
-        <guid>https://box-z28.github.io/blog_show/p/%E8%87%AA%E5%8A%A8%E9%85%8D%E7%BD%AEtest2/</guid>
-        <description></description>
         </item>
         <item>
         <title>关于我</title>
