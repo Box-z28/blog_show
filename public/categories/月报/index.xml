@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>月报 on 飘然烟雨中</title>
+        <link>https://box-z28.github.io/blog_show/categories/%E6%9C%88%E6%8A%A5/</link>
+        <description>Recent content in 月报 on 飘然烟雨中</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>飘然烟雨中</copyright>
+        <lastBuildDate>Thu, 01 Jan 2026 18:56:45 +0800</lastBuildDate><atom:link href="https://box-z28.github.io/blog_show/categories/%E6%9C%88%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>2025年12月总结</title>
+        <link>https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/</link>
+        <pubDate>Thu, 01 Jan 2026 18:56:45 +0800</pubDate>
+        
+        <guid>https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/</guid>
+        <description>&lt;p&gt;​	从照葫芦画瓢搭建起一个毛胚房网站到现在，终于想起来写第一篇月报了（虽然今天是元旦节，按理来说应该写年报才对🙊）&lt;/p&gt;
+&lt;h1 id=&#34;做了些什么&#34;&gt;做了些什么
+&lt;/h1&gt;&lt;p&gt;​	12月整体上还是取得了不少阶段性进展的，优点小成就感hhh&lt;/p&gt;
+&lt;p&gt;​	首先是月初终于看完了 Java Web 的课，总算是对 SpringBoot 入门了。其实按计划 11 月就该看完来着，不过 11 月拖延了一两周。唉，期中那几周接二连三的课内 pre 真的搞人心态，弄完那些毫无意义的作业后完全没心情学自己的东西了👿 工程伦理这种纯折磨的课再也不想上了，只能说早上完早结束吧，先苦后甜了hhh&lt;/p&gt;
+&lt;p&gt;​	虽然看完了 Java Web，但是能明显感受到其中某些知识掌握的还是很不牢靠的，以及只要跟反射、动态代理有关的东西我就会觉得很难理解，看来连 Java SE 都有欠缺，后期慢慢补吧，只看网课肯定不行😢&lt;/p&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;p&gt;​	看完 Java Web 后复习了一天，火速开始敲苍穹外卖。这回是严格按照网课的进度学下来了，一天都没拖延，给自己点赞hhh。大概做了十几天吧，终于是敲完了，宣告人生中第一个看得过去的 Java 项目成功落地（虽然微信支付模块受限制没有真正意义上的完成）。虽然只是个大号玩具，但是确实接触到了很多东西，收获蛮大的，像 Redis 啊，JWT啊，WebSocket啊、SpringTask 等部件也算有了个初步了解&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;D:%5c%e7%ac%94%e8%ae%b0%5cmd%e7%ac%94%e8%ae%b0%e7%9b%b8%e5%85%b3%e5%9b%be%e7%89%87%5ctake_out_1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;1&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;D:%5c%e7%ac%94%e8%ae%b0%5cmd%e7%ac%94%e8%ae%b0%e7%9b%b8%e5%85%b3%e5%9b%be%e7%89%87%5ctake_out_2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;2&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;D:%5c%e7%ac%94%e8%ae%b0%5cmd%e7%ac%94%e8%ae%b0%e7%9b%b8%e5%85%b3%e5%9b%be%e7%89%87%5ctake_out_3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;3&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;D:%5c%e7%ac%94%e8%ae%b0%5cmd%e7%ac%94%e8%ae%b0%e7%9b%b8%e5%85%b3%e5%9b%be%e7%89%87%5ctake_out_4.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;4&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;D:%5c%e7%ac%94%e8%ae%b0%5cmd%e7%ac%94%e8%ae%b0%e7%9b%b8%e5%85%b3%e5%9b%be%e7%89%87%5ctake_out_5.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;5&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;​	&lt;em&gt;话虽如此，在今天（元旦节）写月报时，却发现里面有些知识点已经有所遗忘了，果然过一段时间不用就会忘啊，还是太不熟练了&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;​	在结束了苍穹外卖后，短暂迷茫了一天，决定先打好基础再说，所以又去恶补了一下 MySQL（正好今天上午刚看完，可以写到12月月报里显得我上个月干了很多事hhh）。总的来说收益也很多，总算把锁、索引、视图什么的搞得差不多明白了，还学了主从复制、分库分表、读写分离等感觉很厉害的东西，赞一个👍&lt;/p&gt;
+&lt;p&gt;​	同时这个月也开始尝试用 Java 刷 LeetCode 了，唉唉，这东西更是过几天不学就又全忘了。复习考研的时候明明刷了那么多，现在碰到原题有时候还是没思路，无语了，为什么我不是算法高手🤕  不过倒是每天都在坚持，还算有点毅力（虽然一天就一两道hh）&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;D:%5c%e7%ac%94%e8%ae%b0%5cmd%e7%ac%94%e8%ae%b0%e7%9b%b8%e5%85%b3%e5%9b%be%e7%89%87%5cleetcode.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;6&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;p&gt;​	总之这个月的里程碑还不少，算是一个小爆发吧，蛮开心的还。12.25 苍穹外卖完结，1.1 MySQL网课完结，送给自己最好的圣诞和元旦礼物&lt;/p&gt;
+&lt;h1 id=&#34;玩了什么&#34;&gt;玩了什么
+&lt;/h1&gt;&lt;p&gt;​	这个月玩了啥来着，记不清了好像（）&lt;/p&gt;
+&lt;p&gt;​	斯普拉顿一直在玩倒是，一会打工一会真格，总体来说还是打工多一点hhhh，不过不像过去那么痴迷了（估计是被 Java 毒打了导致的，每天学完基本上都十一点多，刷刷低智视频就睡了）&lt;/p&gt;
+&lt;p&gt;​	除了斯普拉顿还玩了马里奥奥德赛（忘了是十一月还是十二月玩的了），很久之前就买了，最近才玩，真好玩啊，不愧是任天堂。光速打了全收集，就是有些阴间关卡玩得人高血压，不过整体来说还是很好玩的，从没玩过这种游戏，地图到处都是惊喜和菜单，很适合我这种不按主线来，就喜欢瞎逛悠探索的人hhh&lt;/p&gt;
+&lt;p&gt;​	奥对了，中途还和亲爱的女朋友打了一个下午一个晚上的星露谷物语。真好玩啊这游戏，玩起来就停不下来了。要是我之后的生活也像星露谷物语里面这么悠闲就好了（虽然好像并不悠闲，但是至少不用担心找不到工作了hhh）&lt;/p&gt;
+&lt;p&gt;​	11月底还和女朋友看了疯狂动物城2，emm，是个好电影，不过感觉没第一部那么惊艳，可能是我的期待拉太高了吧，给个8-9分。不过这次不是一个人看，嗯嗯，有女朋友陪我，好评👍。看电影 + 和女朋友逛街吃饭，给到10分，最喜欢的一天&lt;/p&gt;
+&lt;h1 id=&#34;其他乱七八糟的&#34;&gt;其他乱七八糟的
+&lt;/h1&gt;&lt;p&gt;​	开了学之后再没回过家，暑假又提前进组了一个月，也没咋陪爷爷。唉，忽然发现我也到了最害怕半夜家里打来电话的年纪了。现在只要我给家里打电话打不通就会特别慌，总在担心一些很坏很坏的事情。希望寒假可以多陪陪家人，多见见他们❤️&lt;/p&gt;
+&lt;p&gt;​	好像和女朋友吵了一两次架？但是应该不多，印象不是很清晰了，至少最近一段时间都挺好的。希望我们可以一直好好的😁&lt;/p&gt;
+&lt;h1 id=&#34;下个月&#34;&gt;下个月
+&lt;/h1&gt;&lt;p&gt;​	今天看完了 MySQL，已经准备好下一个看 Redis 了，学一下 Redis，顺便再做个黑马点评，了解一下高并发，做完 Redis 就可以开始正式看八股和刷题找实习了。&lt;/p&gt;
+&lt;p&gt;​	不过期末周还有几门考试要复习，事也多起来了，组会也得准备，估计下个月的进度又要变慢了。研究生想干点自己的事真困难啊&lt;/p&gt;
+&lt;p&gt;​	不管怎么说，祝自己元旦快乐，希望2026顺顺利利，耶✌&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
