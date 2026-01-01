@@ -20,67 +20,91 @@
 &lt;p&gt;​	虽然看完了 Java Web，但是能明显感受到其中某些知识掌握的还是很不牢靠的，以及只要跟反射、动态代理有关的东西我就会觉得很难理解，看来连 Java SE 都有欠缺，后期慢慢补吧，只看网课肯定不行😢&lt;/p&gt;
 &lt;p&gt;​&lt;/p&gt;
 &lt;p&gt;​	看完 Java Web 后复习了一天，火速开始敲苍穹外卖。这回是严格按照网课的进度学下来了，一天都没拖延，给自己点赞hhh。大概做了十几天吧，终于是敲完了，宣告人生中第一个看得过去的 Java 项目成功落地（虽然微信支付模块受限制没有真正意义上的完成）。虽然只是个大号玩具，但是确实接触到了很多东西，收获蛮大的，像 Redis 啊，JWT啊，WebSocket啊、SpringTask 等部件也算有了个初步了解&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;D:%5c%e7%ac%94%e8%ae%b0%5cmd%e7%ac%94%e8%ae%b0%e7%9b%b8%e5%85%b3%e5%9b%be%e7%89%87%5ctake_out_1.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_1.png&#34;
+	width=&#34;1910&#34;
+	height=&#34;879&#34;
+	srcset=&#34;https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_1_hu_25667c66f9c76a87.png 480w, https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_1_hu_a3dcc5a580f147a8.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;1&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;217&#34;
+		data-flex-basis=&#34;521px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;D:%5c%e7%ac%94%e8%ae%b0%5cmd%e7%ac%94%e8%ae%b0%e7%9b%b8%e5%85%b3%e5%9b%be%e7%89%87%5ctake_out_2.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_2.png&#34;
+	width=&#34;1910&#34;
+	height=&#34;879&#34;
+	srcset=&#34;https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_2_hu_dcb0ad979531c2c7.png 480w, https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_2_hu_966417bc5aae2f3d.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;2&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;217&#34;
+		data-flex-basis=&#34;521px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;D:%5c%e7%ac%94%e8%ae%b0%5cmd%e7%ac%94%e8%ae%b0%e7%9b%b8%e5%85%b3%e5%9b%be%e7%89%87%5ctake_out_3.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_3.png&#34;
+	width=&#34;1910&#34;
+	height=&#34;879&#34;
+	srcset=&#34;https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_3_hu_8499c7dc97cb0654.png 480w, https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_3_hu_7e2eeda9d0481f3b.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;3&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;217&#34;
+		data-flex-basis=&#34;521px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;D:%5c%e7%ac%94%e8%ae%b0%5cmd%e7%ac%94%e8%ae%b0%e7%9b%b8%e5%85%b3%e5%9b%be%e7%89%87%5ctake_out_4.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_4.png&#34;
+	width=&#34;395&#34;
+	height=&#34;794&#34;
+	srcset=&#34;https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_4_hu_e6b2b33f61b62317.png 480w, https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_4_hu_3281dea9b1d221d7.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;4&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;49&#34;
+		data-flex-basis=&#34;119px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;D:%5c%e7%ac%94%e8%ae%b0%5cmd%e7%ac%94%e8%ae%b0%e7%9b%b8%e5%85%b3%e5%9b%be%e7%89%87%5ctake_out_5.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_5.png&#34;
+	width=&#34;366&#34;
+	height=&#34;783&#34;
+	srcset=&#34;https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_5_hu_9a789272f7a69a7f.png 480w, https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/take_out_5_hu_bab4b56df8b4e30a.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;5&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;46&#34;
+		data-flex-basis=&#34;112px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;​	&lt;em&gt;话虽如此，在今天（元旦节）写月报时，却发现里面有些知识点已经有所遗忘了，果然过一段时间不用就会忘啊，还是太不熟练了&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;​	在结束了苍穹外卖后，短暂迷茫了一天，决定先打好基础再说，所以又去恶补了一下 MySQL（正好今天上午刚看完，可以写到12月月报里显得我上个月干了很多事hhh）。总的来说收益也很多，总算把锁、索引、视图什么的搞得差不多明白了，还学了主从复制、分库分表、读写分离等感觉很厉害的东西，赞一个👍&lt;/p&gt;
 &lt;p&gt;​	同时这个月也开始尝试用 Java 刷 LeetCode 了，唉唉，这东西更是过几天不学就又全忘了。复习考研的时候明明刷了那么多，现在碰到原题有时候还是没思路，无语了，为什么我不是算法高手🤕  不过倒是每天都在坚持，还算有点毅力（虽然一天就一两道hh）&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;D:%5c%e7%ac%94%e8%ae%b0%5cmd%e7%ac%94%e8%ae%b0%e7%9b%b8%e5%85%b3%e5%9b%be%e7%89%87%5cleetcode.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/leetcode.png&#34;
+	width=&#34;81&#34;
+	height=&#34;139&#34;
+	srcset=&#34;https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/leetcode_hu_f4bd50fd6d1c44f6.png 480w, https://box-z28.github.io/blog_show/p/2025%E5%B9%B412%E6%9C%88%E6%80%BB%E7%BB%93/leetcode_hu_f428d353047ff37b.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;6&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;58&#34;
+		data-flex-basis=&#34;139px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;​&lt;/p&gt;
